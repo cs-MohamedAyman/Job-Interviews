@@ -39,26 +39,6 @@ Job Interviews for computer science students.
 
 ## [`Probelm Solving Training - LeetCode Level 2`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/README.md#leetcode-oj-phases)
 
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/README.md#google-competitions-phases"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/googlecompetitions.png"></img></a>
-<br>
-
-## [`Probelm Solving Training - Google Competitions Level 2`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/README.md#google-competitions-phases)
-
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#hackerrank-oj-phases"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a>
-<br>
-
-## [`Probelm Solving Training - HackerRank Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#hackerrank-oj-phases)
-
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#leetcode-oj-phases"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a>
-<br>
-
-## [`Probelm Solving Training - LeetCode Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#leetcode-oj-phases)
-
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#google-competitions-phases"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/googlecompetitions.png"></img></a>
-<br>
-
-## [`Probelm Solving Training - Google Competitions Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#google-competitions-phases)
-
 <a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-structure-libraries/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/data-structure-libraries.png"></img></a>
 <br>
 
@@ -84,10 +64,20 @@ Job Interviews for computer science students.
 
 ## [`Educational Projects - Object-Oriented Systems`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/database-systems-apps.png"></img></a>
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#hackerrank-oj-phases"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a>
 <br>
 
-## [`Educational Projects - Database Systems Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md)
+## [`Probelm Solving Training - HackerRank Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#hackerrank-oj-phases)
+
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#leetcode-oj-phases"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a>
+<br>
+
+## [`Probelm Solving Training - LeetCode Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#leetcode-oj-phases)
+
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#google-competitions-phases"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/googlecompetitions.png"></img></a>
+<br>
+
+## [`Probelm Solving Training - Google Competitions Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#google-competitions-phases)
 
 <a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-computing-apps.png"></img></a>
 <br>
@@ -108,3 +98,9 @@ Job Interviews for computer science students.
 <br>
 
 ## [`Educational Projects - Data Compression Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/README.md)
+
+<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/database-systems-apps.png"></img></a>
+<br>
+
+## [`Educational Projects - Database Systems Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md)
+
