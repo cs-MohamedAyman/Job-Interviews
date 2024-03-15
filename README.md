@@ -39,6 +39,11 @@ Job Interviews for computer science students.
 
 ## [`Probelm Solving Training - LeetCode Level 2`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/README.md#leetcode-oj-phases)
 
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/README.md#google-competitions-phases"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/googlecompetitions.png"></img></a>
+<br>
+
+## [`Probelm Solving Training - Google Competitions Level 2`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/README.md#google-competitions-phases)
+
 <a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#hackerrank-oj-phases"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a>
 <br>
 
@@ -48,6 +53,11 @@ Job Interviews for computer science students.
 <br>
 
 ## [`Probelm Solving Training - LeetCode Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#leetcode-oj-phases)
+
+<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#google-competitions-phases"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/googlecompetitions.png"></img></a>
+<br>
+
+## [`Probelm Solving Training - Google Competitions Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#google-competitions-phases)
 
 <a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-structure-libraries/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/data-structure-libraries.png"></img></a>
 <br>
