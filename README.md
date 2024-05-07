@@ -19,82 +19,62 @@ Job Interviews for computer science students.
 
 ## [`Interview Tips`](/tips/README.md)
 
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/README.md#hackerrank-oj-phases"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a>
+<a href="/roles/software-engineering-1.md"><img align="right" width="80" src="/logos/emp02.png"></img></a>
+<a href="/roles/software-engineering-1.md"><img align="right" width="80" src="/logos/emp01.png"></img></a>
 <br>
 
-## [`Probelm Solving Training - HackerRank Level 1`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/README.md#hackerrank-oj-phases)
+## [`Software Engineering - Level 1`](/roles/software-engineering-1.md)
 
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/README.md#hackerrank-oj-phases"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a>
+<a href="/roles/data-science-1.md"><img align="right" width="80" src="/logos/emp04.png"></img></a>
+<a href="/roles/data-science-1.md"><img align="right" width="80" src="/logos/emp03.png"></img></a>
 <br>
 
-## [`Probelm Solving Training - HackerRank Level 2`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/README.md#hackerrank-oj-phases)
+## [`Data Science - Level 1`](/roles/data-science-1.md)
 
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#hackerrank-oj-phases"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/hackerrank.png"></img></a>
+<a href="/roles/software-engineering-2.md"><img align="right" width="80" src="/logos/emp06.png"></img></a>
+<a href="/roles/software-engineering-2.md"><img align="right" width="80" src="/logos/emp05.png"></img></a>
 <br>
 
-## [`Probelm Solving Training - HackerRank Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#hackerrank-oj-phases)
+## [`Software Engineering - Level 2`](/roles/software-engineering-2.md)
 
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/README.md#leetcode-oj-phases"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a>
+<a href="/roles/data-science-2.md"><img align="right" width="80" src="/logos/emp08.png"></img></a>
+<a href="/roles/data-science-2.md"><img align="right" width="80" src="/logos/emp07.png"></img></a>
 <br>
 
-## [`Probelm Solving Training - LeetCode Level 1`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-1/README.md#leetcode-oj-phases)
+## [`Data Science - Level 2`](/roles/data-science-2.md)
 
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/README.md#leetcode-oj-phases"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a>
+<a href="/roles/software-engineering-3.md"><img align="right" width="80" src="/logos/emp10.png"></img></a>
+<a href="/roles/software-engineering-3.md"><img align="right" width="80" src="/logos/emp09.png"></img></a>
 <br>
 
-## [`Probelm Solving Training - LeetCode Level 2`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-2/README.md#leetcode-oj-phases)
+## [`Software Engineering - Level 3`](/roles/software-engineering-3.md)
 
-<a href="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#leetcode-oj-phases"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/logos/leetcode.png"></img></a>
+<a href="/roles/data-science-3.md"><img align="right" width="80" src="/logos/emp12.png"></img></a>
+<a href="/roles/data-science-3.md"><img align="right" width="80" src="/logos/emp11.png"></img></a>
 <br>
 
-## [`Probelm Solving Training - LeetCode Level 3`](https://github.com/cs-MohamedAyman/Problem-Solving-Training/blob/master/level-3/README.md#leetcode-oj-phases)
+## [`Data Science - Level 3`](/roles/data-science-3.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-structure-libraries/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/data-structure-libraries.png"></img></a>
+<a href="/roles/software-engineering-4.md"><img align="right" width="80" src="/logos/emp14.png"></img></a>
+<a href="/roles/software-engineering-4.md"><img align="right" width="80" src="/logos/emp13.png"></img></a>
 <br>
 
-## [`Educational Projects - Data Structure Libraries`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-structure-libraries/README.md)
+## [`Software Engineering - Level 4`](/roles/software-engineering-4.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/2-player-games.png"></img></a>
+<a href="/roles/data-science-4.md"><img align="right" width="80" src="/logos/emp16.png"></img></a>
+<a href="/roles/data-science-4.md"><img align="right" width="80" src="/logos/emp15.png"></img></a>
 <br>
 
-## [`Educational Projects - 2 Player Games`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/2-player-games/README.md)
+## [`Data Science - Level 4`](/roles/data-science-4.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/4-player-games.png"></img></a>
+<a href="/roles/software-engineering-5.md"><img align="right" width="80" src="/logos/emp18.png"></img></a>
+<a href="/roles/software-engineering-5.md"><img align="right" width="80" src="/logos/emp17.png"></img></a>
 <br>
 
-## [`Educational Projects - 4 Player Games`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/4-player-games/README.md)
+## [`Software Engineering - Level 5`](/roles/software-engineering-5.md)
 
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/1-player-games.png"></img></a>
+<a href="/roles/data-science-5.md"><img align="right" width="80" src="/logos/emp20.png"></img></a>
+<a href="/roles/data-science-5.md"><img align="right" width="80" src="/logos/emp19.png"></img></a>
 <br>
 
-## [`Educational Projects - 1 Player Games`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/1-player-games/README.md)
-
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/object-oriented-systems.png"></img></a>
-<br>
-
-## [`Educational Projects - Object-Oriented Systems`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/object-oriented-systems/README.md)
-
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/database-systems-apps.png"></img></a>
-<br>
-
-## [`Educational Projects - Database Systems Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/database-systems-apps/README.md)
-
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/parallel-computing-apps.png"></img></a>
-<br>
-
-## [`Educational Projects - Parallel Computing Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/parallel-computing-apps/README.md)
-
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/operating-system-apps.png"></img></a>
-<br>
-
-## [`Educational Projects - Operating System Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/operating-system-apps/README.md)
-
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/computer-graphics-apps/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/computer-graphics-apps.png"></img></a>
-<br>
-
-## [`Educational Projects - Computer Graphics Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/computer-graphics-apps/README.md)
-
-<a href="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/README.md"><img align="right" width="80" src="https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/logos/data-compression-apps.png"></img></a>
-<br>
-
-## [`Educational Projects - Data Compression Apps`](https://github.com/cs-MohamedAyman/Educational-Projects/blob/master/data-compression-apps/README.md)
+## [`Data Science - Level 5`](/roles/data-science-5.md)
