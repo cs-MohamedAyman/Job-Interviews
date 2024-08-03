@@ -17,7 +17,7 @@ Interview Preparation for computer science students.
 <a href="/tips/README.md"><img align="right" width="80" src="/logos/tips.png"></img></a>
 <br>
 
-## [`Interview Tips`](/tips/README.md)
+## [`Interview Preparation Tips`](/tips/README.md)
 
 <a href="/roles/software-engineering-1.md"><img align="right" width="80" src="/logos/emp02.png"></img></a>
 <a href="/roles/software-engineering-1.md"><img align="right" width="80" src="/logos/emp01.png"></img></a>
